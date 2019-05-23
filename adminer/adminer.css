@@ -308,3 +308,11 @@ table code{}
 .js .column a{color:#cfcfc2;}
 
 .js .checkable .checked td, .js .checkable .checked th {background:#75715e;color:#10100c;}
+
+.footer > div {
+	background:#1a1a16;
+}
+.footer { 
+	border-top: 20px solid rgba(255,255,255,.7);
+	border-image: linear-gradient(rgba(255,255,255,.2),#1a1a16) 100% 0;
+}
